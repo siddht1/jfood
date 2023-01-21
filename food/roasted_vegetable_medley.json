@@ -1,0 +1,20 @@
+{
+    "recipeName": "Roasted Vegetable Medley",
+    "servings": 4,
+    "ingredients": [
+        {"name": "carrots", "amount": "2 cups", "unit": "chopped"},
+        {"name": "sweet potatoes", "amount": "1 1/2 cups", "unit": "chopped"},
+        {"name": "brussels sprouts", "amount": "1 cup", "unit": "halved"},
+        {"name": "olive oil", "amount": "2 tbsp", "unit": ""},
+        {"name": "salt", "amount": "1 tsp", "unit": ""},
+        {"name": "pepper", "amount": "1/4 tsp", "unit": ""}
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F.",
+        "In a large bowl, toss the chopped carrots, sweet potatoes, and halved brussels sprouts with 2 tablespoons of olive oil.",
+        "Season with 1 teaspoon of salt and 1/4 teaspoon of pepper.",
+        "Spread the vegetables out in a single layer on a baking sheet.",
+        "Roast in the preheated oven for 25-30 minutes, or until the vegetables are tender and lightly browned.",
+        "Serve immediately."
+    ]
+}
